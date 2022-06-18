@@ -1,0 +1,44 @@
+{
+  "payload": [
+    {
+      "id": "1",
+      "company_name": "Devs nik",
+      "company_address": "Vadagam",
+      "company_email": "ravi@gmail.com",
+      "company_mobile": "+917041384184",
+      "owner_name": "Ravi Patel",
+      "owner_email": "ravi@gmail.com",
+      "owner_mobile": "7041384184",
+      "payment_cycle": "30",
+      "gst_no": "EJDLSJ556464"
+    },
+    {
+      "id": "2",
+      "company_name": "Elsner ",
+      "company_address": "Ahmedabad",
+      "company_email": "Elsner@gmail.com",
+      "company_mobile": "8745152354",
+      "owner_name": "Harshal Shah",
+      "owner_email": "shah@gmail.com",
+      "owner_mobile": "7041384184",
+      "payment_cycle": "30",
+      "gst_no": "DLHGJDSJ556464"
+    },
+    {
+      "id": "3",
+      "company_name": "Elsner 1",
+      "company_address": "Ahmedabad",
+      "company_email": "Elsner@gmail.com",
+      "company_mobile": "8745152354",
+      "owner_name": "Harshal Shah",
+      "owner_email": "shah@gmail.com",
+      "owner_mobile": "7041384184",
+      "payment_cycle": "30",
+      "gst_no": "DLHGJDSJ556464"
+    }
+  ],
+  "error": {
+    "message": "",
+    "code": 200
+  }
+}
