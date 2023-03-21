@@ -33,7 +33,7 @@ dependencies:
   provider: ^5.0.0
   hive: any
   get_it: any
-  dio: any
+  dio: ^5.0.3
   path_provider: ^2.0.8
   autocomplete_textfield: ^1.7.3
 
